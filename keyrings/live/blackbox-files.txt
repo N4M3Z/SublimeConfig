@@ -1,0 +1,2 @@
+LaTeXing.sublime-license
+Sublimerge.sublime-license

@@ -1,0 +1,7 @@
+{
+    // "glue_userpath" : "/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/texbin:/usr/texbin",
+    "glue_shellpath" : "/usr/local/bin/zsh",
+    "glue_ps1" : ">",
+    "glue_display_path": true,
+    "glue_exit_message" : "Exiting Glue ...",
+}

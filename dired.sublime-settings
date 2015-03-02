@@ -1,0 +1,35 @@
+{
+	"caret_extra_width": 0,
+	"color_scheme": "Packages/User/dired.hidden-tmTheme",
+	"dired_confirm_send2trash": true,
+	"dired_header": true,
+	"dired_hidden_files_patterns":
+	[
+		".*"
+	],
+	"dired_hijack_new_window": false,
+	"dired_jump_points":
+	{
+		"ZSH": "/Users/mzeman/.zsh/"
+	},
+	"dired_reuse_view": true,
+	"dired_show_full_path": false,
+	"dired_show_hidden_files": true,
+	"dired_show_parent": true,
+	"drag_text": false,
+	"draw_indent_guides": false,
+	"fold_buttons": false,
+	"font_face": "Courier New",
+	"font_size": 14,
+	"git_path": "git",
+	"highlight_line": true,
+	"line_numbers": false,
+	"margin": 0,
+	"rulers":
+	[
+	],
+	"scroll_past_end": false,
+	"spell_check": false,
+	"tab_size": 4,
+	"word_wrap": false
+}
