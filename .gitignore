@@ -1,9 +1,11 @@
+ColorPicker
+Color Highlighter
+
 *.last-run
 FileHistory*
 Character Table/*
 
 bh_unicode_properties.cache
-ColorPicker
 Package Control.cache
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
@@ -14,3 +16,6 @@ secring.gpg
 
 LaTeXing.sublime-license
 Sublimerge.sublime-license
+LaTeXing.sublime-settings
+SublimeGit.sublime-settings
+SublimeGit.sublime-license

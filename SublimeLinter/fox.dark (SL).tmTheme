@@ -3,43 +3,47 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Chris Kempson (http://chriskempson.com)</string>
+	<string>Karel Vuong</string>
 	<key>name</key>
-	<string>Base16 Eighties Dark</string>
+	<string>Fox - Dark</string>
 	<key>semanticClass</key>
-	<string>base16.eighties.dark</string>
+	<string>karel.fox.dark</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#393939</string>
+		<string>#181D20</string>
 		<key>divider</key>
-		<string>#393939</string>
+		<string>#343d46</string>
 		<key>foreground</key>
-		<string>#747369</string>
+		<string>#5F7387</string>
 		<key>selectionBackground</key>
-		<string>#515151</string>
+		<string>#4f5b66</string>
 		<key>selectionForeground</key>
-		<string>#a09f93</string>
+		<string>#a7adba</string>
 	</dict>
+
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
+				
 				<key>background</key>
-				<string>#2d2d2d</string>
+				<string>#181D20</string>
 				<key>caret</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
+				
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 				<key>invisibles</key>
-				<string>#747369</string>
+				<string>#5C6773</string>
+				
 				<key>lineHighlight</key>
-				<string>#393939</string>
+				<string>#2D333C</string>
 				<key>selection</key>
-				<string>#515151</string>
+				<string>#b9d7fd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +54,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +65,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#747369</string>
+				<string>#5C6773</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +76,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +87,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +98,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -105,7 +109,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99cc</string>
+				<string>#A18650</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +142,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -149,7 +153,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2f0ec</string>
+				<string>#eff1f5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,7 +164,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -171,7 +175,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99cc</string>
+				<string>#A18650</string>
 			</dict>
 		</dict>
 		<dict>
@@ -182,7 +186,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66cccc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -193,7 +197,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99cc99</string>
+				<string>#B26B47</string>
 			</dict>
 		</dict>
 		<dict>
@@ -204,7 +208,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#5C9966</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +219,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#5C9966</string>
 			</dict>
 		</dict>
 		<dict>
@@ -226,7 +230,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +241,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +252,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,7 +263,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -270,7 +274,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -281,7 +285,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99cc</string>
+				<string>#A18650</string>
 			</dict>
 		</dict>
 		<dict>
@@ -292,7 +296,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -305,7 +309,7 @@
 				<key>fontStyle</key>
 				<string />
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -316,7 +320,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#5C9966</string>
 			</dict>
 		</dict>
 		<dict>
@@ -329,7 +333,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -342,7 +346,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#cc99cc</string>
+				<string>#A18650</string>
 			</dict>
 		</dict>
 		<dict>
@@ -353,7 +357,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99cc99</string>
+				<string>#B26B47</string>
 			</dict>
 		</dict>
 		<dict>
@@ -364,7 +368,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -375,7 +379,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -386,7 +390,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -397,7 +401,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f99157</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -408,9 +412,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#515151</string>
+				<string>#4f5b66</string>
 				<key>foreground</key>
-				<string>#d3d0c8</string>
+				<string>#A9BACB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -421,7 +425,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#99cc99</string>
+				<string>#B26B47</string>
 			</dict>
 		</dict>
 		<dict>
@@ -432,7 +436,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -443,7 +447,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cc99cc</string>
+				<string>#A18650</string>
 			</dict>
 		</dict>
 		<dict>
@@ -454,7 +458,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515151</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -465,7 +469,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515151</string>
+				<string>#4f5b66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -476,7 +480,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66cccc</string>
+				<string>#BF5656</string>
 			</dict>
 		</dict>
 		<dict>
@@ -487,7 +491,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66cccc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -498,7 +502,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66cccc</string>
+				<string>#3489B2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -509,7 +513,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d27b53</string>
+				<string>#ab7967</string>
 			</dict>
 		</dict>
 		<dict>
@@ -520,22 +524,128 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f2777a</string>
+				<string>#A673BF</string>
 				<key>foreground</key>
-				<string>#2d2d2d</string>
+				<string>#14171A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#967EFB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+
+
+
+
+
+		
+		<dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter deleted</string>
+			<key>scope</key>
+			<string>markup.deleted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EB5368</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter inserted</string>
+			<key>scope</key>
+			<string>markup.inserted.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A1DF8A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter changed</string>
+			<key>scope</key>
+			<string>markup.changed.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F0C36F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter ignored</string>
+			<key>scope</key>
+			<string>markup.ignored.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GitGutter untracked</string>
+			<key>scope</key>
+			<string>markup.untracked.git_gutter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#565656</string>
 			</dict>
 		</dict>
 	<dict>
-            <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict><dict>
             <key>name</key>
             <string>SublimeLinter Warning</string>
             <key>scope</key>
@@ -544,6 +654,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#DDB700</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#D02000</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -557,6 +677,6 @@
             </dict>
         </dict></array>
 	<key>uuid</key>
-	<string>36594751-36ac-443a-9f2f-111b815085cf</string>
+	<string>59c1e2f2-7b41-46f9-91f2-1b4c6f5866f7</string>
 </dict>
 </plist>

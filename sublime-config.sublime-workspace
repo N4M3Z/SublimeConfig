@@ -1,0 +1,822 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subc",
+				"subcommands"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"project man",
+				"Project Manager"
+			],
+			[
+				"sublimegit",
+				"SublimeGit: Documentation"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"latexing",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package contr",
+				"Package Control: Enable Package"
+			],
+			[
+				"push",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remvoe pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"latex",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"colorco",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"col",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"colord",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"set syn latex",
+				"Set Syntax: LaTeXing (TikZ)"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"latexing tikz",
+				"Set Syntax: LaTeXing (TikZ)"
+			],
+			[
+				"unmanaged",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"reinstall pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"history",
+				"File History: Open recently closed file (All Projects)"
+			],
+			[
+				"gist open",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"preferen latex",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"GIT ADD",
+				"Git: Quick Add"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"projec",
+				"Project Manager: Open Project"
+			],
+			[
+				"proje",
+				"Project Manager: Open Project"
+			],
+			[
+				"edit pre",
+				"Edit Preferences: Edit Settings…"
+			],
+			[
+				"prefe",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"prefer",
+				"Preferences: Browse Packages"
+			],
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"edit prefere",
+				"Edit Preference: List Settings"
+			],
+			[
+				"edit pree",
+				"Edit Preference: List Plugins Commands"
+			],
+			[
+				"edit",
+				"Edit Preference: Theme"
+			],
+			[
+				"edit ",
+				"Edit Preference: List Shortcut Keys"
+			],
+			[
+				"edit pref",
+				"Edit Preference: List Settings"
+			],
+			[
+				"evalu",
+				"CSV: Evaluate cells"
+			],
+			[
+				"eva",
+				"CSV: Evaluate cells"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"insert co",
+				"CSV: Insert column"
+			],
+			[
+				"select col",
+				"CSV: Select column"
+			],
+			[
+				"evau",
+				"CSV: Evaluate cells"
+			],
+			[
+				"advanced",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"subl",
+				"Sublimerge"
+			],
+			[
+				"lang",
+				"Dictionaries: Set Language (Current View)"
+			],
+			[
+				"langu",
+				"Dictionaries: Set Language"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"bros",
+				"Browse Mode: Right Sidebar"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sch",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"insert ",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"charac",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"latexing ver",
+				"LaTeXing: Version"
+			],
+			[
+				"tex live",
+				"TeX Live Package Manager: Manage Packages"
+			],
+			[
+				"tex ",
+				"TeX Live Package Manager: Manage Packages"
+			],
+			[
+				"tex lie",
+				"TeX Live Package Manager: Manage Collections"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"latexing set",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"ne",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show al",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"favor",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package syn",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"packagesync",
+				"Package Syncing: Define Sync Folder"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User"
+	],
+	"file_history":
+	[
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/.zshrc",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/brew/brew.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/macports/macports.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/root/root.plugin.zsh",
+		"/usr/local/.git/MERGE_MSG",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/LaTeXCV.sublime-project",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Compile.sh",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Czech.tex",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Source/Seznam_CZ.tex",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Library/moderncvcolorblack.sty",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/Default (OSX).sublime-keymap",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Master.tex",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/N4M3ZCV.cls",
+		"/Users/mzeman/Developer/LaTeX/LaTeXCV/Source/Blizzard_EN.tex",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Alfred 2/Workflow Data/net.deanishe.alfred-sublime-text-projects/settings.json",
+		"/usr/local/Library/Taps/caskroom/homebrew-versions/.git/COMMIT_EDITMSG",
+		"/Users/mzeman/.zsh/.git/COMMIT_EDITMSG",
+		"/Users/mzeman/.gitconfig",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/.git/COMMIT_EDITMSG",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Projects/library.json",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/.git/COMMIT_EDITMSG",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/var/folders/df/5gj5v56j2zvg_vp407ljr_9r0000gn/T/gistfile1.md",
+		"/var/folders/df/5gj5v56j2zvg_vp407ljr_9r0000gn/T/truecrypt_fix.bash",
+		"/Users/mzeman/AAA.json",
+		"/Users/mzeman/BBB.json",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/sublime/sublime.plugin.zsh",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-license",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/keyrings/live/blackbox-files.txt",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/.gitignore",
+		"/Users/mzeman/.zsh/modules/StackExchange/blackbox-master/bin/_blackbox_common.sh",
+		"/Users/mzeman/.zsh/modules/StackExchange/blackbox-master/bin/blackbox_register_new_file",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/.git/rebase-merge/git-rebase-todo",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/.git/rebase-merge/git-rebase-todo",
+		"/Users/mzeman/.zsh/.git/MERGE_MSG",
+		"/Users/mzeman/.zsh/.git/rebase-merge/git-rebase-todo",
+		"/usr/local/Library/Taps/caskroom/homebrew-versions/.git/rebase-merge/git-rebase-todo",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/pm.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/Project Manager/pm.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Cobalt2.sublime-package/Cobalt2.sublime-theme",
+		"/Users/mzeman/Library/Application Support/Sublime Text 3/Packages/User/SublimeText3.sublime-project",
+		"/Users/mzeman/.zsh/zsh.sublime-project",
+		"/Users/mzeman/test.csv",
+		"/usr/local/Library/Taps/caskroom/homebrew-versions/.git/MERGE_MSG",
+		"/Users/mzeman/.zsh/zgen.zsh",
+		"/Users/mzeman/.zsh/.gitignore",
+		"/Users/mzeman/.zsh/zsh-core.sublime-project",
+		"/Users/mzeman/.zsh/_zgen",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/oh-my-zsh.sh",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_sbt",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_port",
+		"/Users/mzeman/.zsh/modules/StackExchange/blackbox-master/tools/mk_macports",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_pactree",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_brew",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/.gitignore",
+		"/Users/mzeman/.zsh/modules/powerline/powerline-master/.gitignore",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/plugins/gitignore/gitignore.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/voronkovich/gitignore.plugin.zsh-master/gitignore.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/themes/gianu.zsh-theme",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/git/functions/git-info",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/lib/git.zsh",
+		"/Users/mzeman/.zsh/.zshrc.old",
+		"/Users/mzeman/.zsh/.zshrc",
+		"/Users/mzeman/Developer/Shell/awesome-zsh-plugins/README.md",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/README.md",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/README.md",
+		"/Users/mzeman/.zsh/modules/jeremyFreeAgent/oh-my-zsh-powerline-theme-master/README.md",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/completion/completion.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/lib/completion.zsh",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/brew-cask/brew-cask.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/lib/bzr.zsh",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/init.zsh",
+		"/Users/mzeman/.zsh/modules/tarruda/zsh-autosuggestions-master/completion-server-init.zsh",
+		"/Users/mzeman/.zsh/modules/tarruda/zsh-autosuggestions-master/completion-server.zsh",
+		"/Users/mzeman/.zsh/modules/tarruda/zsh-autosuggestions-master/completion-client.zsh",
+		"/Users/mzeman/.zsh/modules/rutchkiwi/copyzshell-master/copyzshell.zsh",
+		"/Users/mzeman/.zsh/modules/zsh-users/antigen-master/antigen.zsh",
+		"/Users/mzeman/.zsh/modules/StackExchange/blackbox-master/AUTHORS",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/zsh_reload/zsh_reload.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/plugins/zsh_reload/zsh_reload.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/profiles/Valhalla.zsh",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/zsh-completions-howto.org",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/README.md",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/.editorconfig",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/.git",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/.gitignore",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/README.md",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/src/_nl",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/src/_node",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/runcoms/zpreztorc",
+		"/Users/mzeman/.zsh/modules/powerline/powerline-master/scripts/powerline-render",
+		"/Users/mzeman/.zsh/modules/jeremyFreeAgent/oh-my-zsh-powerline-theme-master/powerline.zsh-theme",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/src/_tmuxinator",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/src/_thor",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/modules/completion/external/src/_teamocil",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_tmuxinator",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_thor",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_teamocil",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/plugins/compleat/compleat.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/plugins/gitfast/git-completion.bash",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/zsh-completions-howto.org",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/plugins/pow/pow.plugin.zsh",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/settings/oh-my-zsh-powerline-theme/oh-my-zsh-powerline-theme.settings.zsh",
+		"/Users/mzeman/.zsh/modules/sorin-ionescu/prezto-master/CONTRIBUTING.md",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_pygmentize",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_perf",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_primus",
+		"/Users/mzeman/.zsh/modules/N4M3Z/zsh-core-master/plugins/osx/functions/osx-ls-download-history",
+		"/Users/mzeman/.zsh/modules/voronkovich/gitignore.plugin.zsh-master/templates/OCaml.gitignore",
+		"/Users/mzeman/.zsh/modules/powerline/powerline-master/tests/test_commandt_plugin.vim",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_vagrant",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_android",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_ack",
+		"/Users/mzeman/.zsh/modules/zsh-users/zsh-completions-master/src/_zfs",
+		"/Users/mzeman/.zsh/modules/robbyrussell/oh-my-zsh-master/themes/sorin.zsh-theme"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".tex",
+			"get_encrypted_filename",
+			"mzeman",
+			"mendeley",
+			"nump",
+			"dirname",
+			"dirname 0",
+			"ZGEN_DIR",
+			"fpath",
+			"_sbt_commands",
+			"compadd",
+			"_1st_arguments",
+			"compinit",
+			"ZGEN_INIT",
+			"compinit",
+			"compdef",
+			"compadd",
+			"antigen",
+			"HISTORY_SUBSTRING_SEARCH_HIGHLIGHT_FOUND",
+			"subl",
+			"Subl",
+			"hstat",
+			"brews",
+			"casks",
+			"complist",
+			"computil",
+			"cask_commands",
+			"_describe",
+			"brew cask command",
+			"ret",
+			"curcontext",
+			"subcmd",
+			"expand-or-complete",
+			"\\\n",
+			"REMOTE_PATH",
+			"]];\n",
+			"mendeley"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "sublime-config.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".sublime",
+				"~/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				".zsh",
+				"modules/N4M3Z/zsh-core-master/.zshrc"
+			],
+			[
+				"oh-my",
+				"modules/robbyrussell/oh-my-zsh-master/oh-my-zsh.sh"
+			],
+			[
+				"_brew",
+				"modules/zsh-users/zsh-completions-master/src/_brew"
+			],
+			[
+				".zshrc",
+				"modules/N4M3Z/zsh-core-master/.zshrc"
+			],
+			[
+				"brew-ca",
+				"modules/N4M3Z/zsh-core-master/plugins/brew-cask/brew-cask.plugin.zsh"
+			],
+			[
+				"compeinit",
+				"modules/sorin-ionescu/prezto-master/modules/completion/init.zsh"
+			],
+			[
+				"completion.pl",
+				"modules/N4M3Z/zsh-core-master/plugins/completion/completion.plugin.zsh"
+			],
+			[
+				"completio",
+				"modules/robbyrussell/oh-my-zsh-master/lib/completion.zsh"
+			],
+			[
+				"antigen",
+				"modules/zsh-users/antigen-master/antigen.zsh"
+			],
+			[
+				"preztocompletion",
+				"modules/sorin-ionescu/prezto-master/modules/completion/init.zsh"
+			],
+			[
+				"oh-my-zs",
+				"modules/robbyrussell/oh-my-zsh-master/oh-my-zsh.sh"
+			],
+			[
+				"brew-cask",
+				"modules/N4M3Z/zsh-core-master/plugins/brew-cask/brew-cask.plugin.zsh"
+			],
+			[
+				"ohm-y",
+				"modules/robbyrussell/oh-my-zsh-master/oh-my-zsh.sh"
+			],
+			[
+				"preztocompetion",
+				"modules/sorin-ionescu/prezto-master/modules/completion/init.zsh"
+			],
+			[
+				"completion.p",
+				"modules/N4M3Z/zsh-core-master/plugins/completion/completion.plugin.zsh"
+			],
+			[
+				"valha",
+				"modules/N4M3Z/zsh-core-master/profiles/Valhalla.zsh"
+			],
+			[
+				"man-prev",
+				"modules/robbyrussell/oh-my-zsh-master/plugins/osx/_man-preview"
+			],
+			[
+				"val",
+				"modules/N4M3Z/zsh-core-master/profiles/Valhalla.zsh"
+			],
+			[
+				"sublime",
+				"modules/N4M3Z/zsh-core-master/plugins/sublime/sublime.plugin.zsh"
+			],
+			[
+				"functions",
+				"modules/N4M3Z/zsh-core-master/functions.zsh"
+			],
+			[
+				"history",
+				"modules/N4M3Z/zsh-core-master/plugins/history/history.plugin.zsh"
+			],
+			[
+				"n4powerine.zsh",
+				"modules/N4M3Z/zsh-core-master/settings/powerline/powerline.settings.zsh"
+			],
+			[
+				"brew",
+				"modules/N4M3Z/zsh-core-master/plugins/brew/brew.plugin.zsh"
+			],
+			[
+				"valh",
+				"modules/N4M3Z/zsh-core-master/profiles/Valhalla.zsh"
+			],
+			[
+				"brew-cas",
+				"modules/N4M3Z/zsh-core-master/plugins/brew-cask/brew-cask.plugin.zsh"
+			],
+			[
+				"complet",
+				"modules/robbyrussell/oh-my-zsh-master/lib/completion.zsh"
+			],
+			[
+				"vala",
+				"modules/N4M3Z/zsh-core-master/profiles/Valhalla.zsh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

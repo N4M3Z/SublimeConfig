@@ -1,2 +1,5 @@
 LaTeXing.sublime-license
 Sublimerge.sublime-license
+SublimeGit.sublime-license
+LaTeXing.sublime-settings
+SublimeGit.sublime-settings
