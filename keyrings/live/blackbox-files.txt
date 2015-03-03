@@ -1,5 +1,7 @@
+FileHistory.json
+Gist.sublime-settings
 LaTeXing.sublime-license
+LaTeXing.sublime-settings
 Sublimerge.sublime-license
 SublimeGit.sublime-license
-LaTeXing.sublime-settings
 SublimeGit.sublime-settings

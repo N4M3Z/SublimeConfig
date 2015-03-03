@@ -2,20 +2,21 @@ ColorPicker
 Color Highlighter
 
 *.last-run
-FileHistory*
 Character Table/*
 
 bh_unicode_properties.cache
+FileHistory_*
 Package Control.cache
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
 Package Control.user-ca-bundle
-
 pubring.gpg~
 secring.gpg
 
+FileHistory.json
 LaTeXing.sublime-license
-Sublimerge.sublime-license
 LaTeXing.sublime-settings
+Sublimerge.sublime-license
+Gist.sublime-settings
 SublimeGit.sublime-settings
 SublimeGit.sublime-license
