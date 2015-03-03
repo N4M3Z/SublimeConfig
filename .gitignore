@@ -12,6 +12,7 @@ Package Control.system-ca-bundle
 Package Control.user-ca-bundle
 pubring.gpg~
 secring.gpg
+sublime-config.sublime-workspace
 
 FileHistory.json
 LaTeXing.sublime-license
