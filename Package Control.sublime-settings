@@ -2,16 +2,19 @@
 	"in_process_packages":
 	[
 	],
+	"install_prereleases": true,
 	"installed_packages":
 	[
 		"Advanced CSV",
 		"Alignment",
+		"All Autocomplete",
 		"BracketHighlighter",
 		"Character Table",
 		"CMake",
 		"Color Highlighter",
 		"Colorcoder",
 		"ColorPicker",
+		"DashDoc",
 		"DataConverter",
 		"Dictionaries",
 		"DocBlockr",
@@ -31,6 +34,7 @@
 		"MarkdownEditing",
 		"Package Control",
 		"Package Syncing",
+		"PackageResourceViewer",
 		"Preference Helper",
 		"Preferences Editor",
 		"Project Manager",
@@ -63,5 +67,9 @@
 		"Themr",
 		"TrailingSpaces",
 		"UnicodeMath"
+	],
+	"repositories":
+	[
+		"http://testing.latexing.com/packages.json"
 	]
 }
