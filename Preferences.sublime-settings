@@ -69,7 +69,7 @@
 
     // Adds whitespace up to the first open bracket when indenting. Requires
     // auto_indent to be enabled.
-    "indent_to_bracket": false,
+    "indent_to_bracket": true,
 
     // Trims white space added by auto_indent when moving the caret off the
     // line.
@@ -250,17 +250,17 @@
     // This setting can be used to make it complete on tab instead.
     // Completing on tab is generally a superior option, as it removes
     // ambiguity between committing the completion and inserting a newline.
-    "auto_complete_commit_on_tab": false,
+    "auto_complete_commit_on_tab": true,
 
     // Controls if auto complete is shown when snippet fields are active.
     // Only relevant if auto_complete_commit_on_tab is true.
-    "auto_complete_with_fields": false,
+    "auto_complete_with_fields": true,
 
     // Controls what happens when pressing the up key while the first item in
     // the auto complete window is selected: if false, the window is hidden,
     // otherwise the last item in the window is selected. Likewise for the
     // down key when the last item is selected.
-    "auto_complete_cycle": false,
+    "auto_complete_cycle": true,
 
     // Automatically close HTML and XML tags when </ is entered.
     "auto_close_tags": true,
@@ -284,7 +284,7 @@
 
     // When auto_find_in_selection is enabled, the "Find in Selection" flag
     // will be enabled automatically when multiple lines of text are selected
-    "auto_find_in_selection": false,
+    "auto_find_in_selection": true,
 
     // When drag_text is enabled, clicking on selected text will begin a
     // drag-drop operation. This is not currently implemented under Linux.
@@ -308,7 +308,7 @@
     "animation_enabled": true,
 
     // Makes tabs with modified files more visible
-    "highlight_modified_tabs": false,
+    "highlight_modified_tabs": true,
 
     "show_tab_close_buttons": true,
 
@@ -324,7 +324,7 @@
     // Retina display). When this setting is enabled, OpenGL is used to
     // accelerate drawing. Sublime Text must be restarted for changes to take
     // effect.
-    "gpu_window_buffer": "auto",
+    "gpu_window_buffer": "true",
 
     // Valid values are "system", "enabled" and "disabled"
     "overlay_scroll_bars": "system",
@@ -354,7 +354,7 @@
     // remember_full_screen will allow Sublime Text to start in full screen
     // mode if it was exited in full screen mode. When set to false, Sublime
     // Text will never start in full screen mode.
-    "remember_full_screen": false,
+    "remember_full_screen": true,
 
     // Always prompt before reloading a file, even if the file hasn't been
     // modified. The default behavior is to automatically reload a file if it
@@ -459,8 +459,8 @@
 		"Highlighter",
 		"HTML-CSS-JS Prettify",
 		"HTMLAttributes",
-		"LaTeX-cwl",
-		"LaTeXing",
+		// "LaTeX-cwl",
+		// "LaTeXing",
 		"Mako",
 		"Markdown Preview",
 		"MarkdownEditing",
