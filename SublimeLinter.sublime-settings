@@ -11,6 +11,16 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"bootlint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"chktex":
 			{
 				"@disable": false,
@@ -45,6 +55,29 @@
 				[
 				],
 				"std":
+				[
+				]
+			},
+			"csslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"warnings": ""
+			},
+			"htmltidy":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
 				[
 				]
 			},
