@@ -3,6 +3,7 @@ FileHistory.json
 Gist.sublime-settings
 LaTeXing.sublime-license
 LaTeXing.sublime-settings
+Projects/library.json
 SublimeGit.sublime-license
 SublimeGit.sublime-settings
 Sublimerge.sublime-license
