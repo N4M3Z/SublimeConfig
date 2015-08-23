@@ -3,6 +3,11 @@
 	[
 		"bash",
 		"zsh",
-		"sh"
+		"sh",
+        "zlogin",
+        "zlogout",
+        "zprofile",
+        "zshenv",
+        "zshrc"
 	]
 }

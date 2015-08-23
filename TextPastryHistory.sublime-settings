@@ -1,0 +1,138 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "x12",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "x12"
+			},
+			"key": "137b8dad9acade63b507e67878d3b94b",
+			"label": "x12"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "key[F1]=${terminfo[kf1]} x12",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "key[F1]=${terminfo[kf1]} x12"
+			},
+			"key": "0e0645844595495d8d5f7e4c4ec0e8a3",
+			"label": "key[F1]=${terminfo[kf1]} x12"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "fist second third",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "fist second third"
+			},
+			"key": "0fc47a5d3d237ed11ffcf00fbfde44c6",
+			"label": "fist second third"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "first second third",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "first second third"
+			},
+			"key": "0f375756f191690ce13ec71e8b2fcb64",
+			"label": "first second third"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"step_size": "12",
+					"text": "1"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as 1 12"
+			},
+			"key": "c31ea3c5b3b8f2f86964ae015d82f0fc",
+			"label": "as 1 12"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x5"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x5"
+			},
+			"key": "3c2a4d492c81b842f74afe2c5451cd89",
+			"label": "1 x5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 x12"
+				},
+				"command": "text_pastry_step",
+				"text": "1 x12"
+			},
+			"key": "82c612f300c22c8c8f02237e5cba599e",
+			"label": "1 x12"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "row-1"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as row-1"
+			},
+			"key": "d9cac1b0416ef8cc711bd92c73cbe5f9",
+			"label": "as row-1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"step_size": "2",
+					"text": "row-0"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as row-0 2"
+			},
+			"key": "34ac57084298c04b9d7b355eb70e24ee",
+			"label": "as row-0 2"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"step_size": "2",
+			"text": "row-0"
+		},
+		"command": "text_pastry_auto_step",
+		"text": "as row-0 2"
+	}
+}

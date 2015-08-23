@@ -15,7 +15,7 @@
     /*
      * Alignment
      */
-    { "keys": ["super+alt+a"], "command": "alignment" },
+    { "keys": ["super+shift+a"], "command": "alignment" },
 
     /**
      * Glue
