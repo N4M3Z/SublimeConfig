@@ -1,6 +1,7 @@
 Evernote.sublime-settings
 FileHistory.json
 Gist.sublime-settings
+LaTeXing.sublime-license
 Projects/library.json
 SublimeGit.sublime-license
 SublimeGit.sublime-settings
