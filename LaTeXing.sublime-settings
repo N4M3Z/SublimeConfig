@@ -1,0 +1,139 @@
+{
+	"bibname": "Remote.bib",
+
+    "cache": {
+        "pkg": 168,
+        "doc": 168,
+        "tex": 24,
+        "bib": 0,
+        "bibsonomy": 48,
+        "citeulike": 48,
+        "global_bib": 48,
+        "mendeley": 48,
+        "zotero": 48
+    },
+
+	"citeulike": true,
+	"citeulike_cite_key_pattern": "{Author}{Year}{Title}",
+	"citeulike_internal_cite_key": false,
+	"currfile_graphicspath": false,
+
+	"dynamic_cwl": true,
+
+	"graphics_pattern":
+	[
+		"*.jpeg",
+		"*.jpg",
+		"*.png",
+		"*.eps",
+		"*.pdf"
+	],
+
+	"knitr": true,
+	"knitr_command": "Rscript -e \"library(knitr); knit('{file}')\"",
+
+	"log": true,
+
+    "mendeley": true,
+    "mendeley_cite_key_pattern": "{Author}.{Title}.{Year}",
+    "mendeley_internal_cite_key": false,
+
+	"online_lookup":
+	[
+		{
+			"title": "Dict.cc",
+			"url": "http://www.dict.cc/?s={query}"
+		},
+		{
+			"title": "Dict.leo.org",
+			"url": "http://dict.leo.org/ende/#/search={query}"
+		},
+		{
+			"title": "Dictionary.com",
+			"url": "http://dictionary.reference.com/browse/{query}"
+		},
+		{
+			"title": "Linguee.com EN-DE",
+			"url": "http://www.linguee.com/english-german/search?query={query}"
+		},
+		{
+			"title": "Linguee.de DE-EN",
+			"url": "http://www.linguee.de/deutsch-englisch/search?query={query}"
+		},
+		{
+			"title": "Pons.eu",
+			"url": "http://en.pons.eu/dict/search/results/?q={query}&l=deen"
+		},
+		{
+			"title": "Thesaurus.com",
+			"url": "http://thesaurus.com/browse/{query}"
+		}
+	],
+
+	"open_pdf_on_load": true,
+
+    "output_directory": true,
+    "output_directory_mode": 0,
+
+	"partial_build": true,
+	"path":
+	[
+		"/usr/local/bin",
+		"/usr/texbin/",
+		"/usr/bin/"
+	],
+
+	"phrases": true,
+
+	"remote_bibliography_in_category": true,
+
+	"static_cwl":
+	[
+		"tex.cwl",
+		"latex-209.cwl",
+		"latex-dev.cwl",
+		"latex-document.cwl",
+		"latex-l2tabu.cwl",
+		"latex-mathsymbols.cwl",
+		"xparse.cwl",
+		"etoolbox.cwl",
+		"ifpdf.cwl",
+		"xspace.cwl",
+		"todonotes.cwl",
+		"listings.cwl",
+		"hyperref.cwl",
+		"amsfonts.cwl",
+		"amsmath.cwl",
+		"amssymb.cwl",
+		"array.cwl",
+		"subfiles.cwl",
+		"babel.cwl",
+		"biblatex.cwl",
+		"booktabs.cwl",
+		"calc.cwl",
+		"color.cwl",
+		"csquotes.cwl",
+		"datetime.cwl",
+		"epstopdf.cwl",
+		"fancybox.cwl",
+		"glossaries.cwl",
+		"graphicx.cwl",
+		"mathtools.cwl",
+		"pdfpages.cwl",
+		"rotating.cwl",
+		"setspace.cwl",
+		"textcomp.cwl",
+		"tikz.cwl",
+		"upgreek.cwl",
+		"url.cwl",
+	],
+
+	"symbols_in_category": true,
+
+	"tikz": true,
+	"tikz_create_pdf": true,
+
+	"typeset_on_save": false,
+
+	"update_remote_bibliography": true,
+}
